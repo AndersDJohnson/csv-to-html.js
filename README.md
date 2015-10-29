@@ -1,5 +1,5 @@
 # csv-to-html.js
-CSV to HTML with JS.
+CSV to HTML table with JS.
 
 ## Use
 
